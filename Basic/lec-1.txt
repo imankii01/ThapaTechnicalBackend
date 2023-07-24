@@ -1,0 +1,7 @@
+what is nodejs
+nodejs is a js runtime built on chrome's v8  js engine
+Nodejs is a js running on the server
+
+History of the Nodejs
+in 2009 an idea came in the mind of Ryan DAhi that why not run js outside of the browser ,so he took v8 engine and 
+embedded in a c++ program and called it node.exe  later on became Nodejs
