@@ -8,4 +8,5 @@ Nodejs has a set of built in modules which you can use withous installations
 
 */
 const fs = require("fs");
-fs.writeFileSync("new.txt", "kajhsdfkajhf");
+// fs.writeFileSync("new.txt", "kajhsdfkajhf");
+fs.appendFileSync("new.txt", "agagagagagag");
